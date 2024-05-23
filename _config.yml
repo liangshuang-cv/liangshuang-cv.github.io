@@ -21,7 +21,7 @@ repository               : "liangshuang-cv/liangshuang-cv.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "liang.jpeg"
   name             : "Shuang Liang"
   pronouns         : # example: "she/her"  
   bio              : "Associate professor @ Tongji University, Shanghai"
@@ -34,10 +34,10 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=DV3VBuQAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Shuang-Liang-58"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
