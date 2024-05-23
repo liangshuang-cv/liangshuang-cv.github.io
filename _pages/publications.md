@@ -23,7 +23,7 @@ author_profile: true
 
 - Shuang Liang*, Wentao Ma, Chi Xie, "Relation with Free Objects for Action Recognition", ACM Transactions on Multimedia Computing, Communications and Applications (ACM TOMM), 2024. (CCF-B) [(paper)](https://dl.acm.org/doi/abs/10.1145/3617596)
 
-- Deze Zhao, Shengjie Zhao*, Shuang Liang*, "SVFNeXt: Sparse Voxel Fusion for LiDAR-Based 3D Object Detection", Pacific Rim International Conference on Artificial Intelligence (PRCAI 2023), 2023. (CCF-C) [(paper)](https://link.springer.com/chapter/10.1007/978-981-99-7025-4_17)
+- Deze Zhao, Shengjie Zhao\*, Shuang Liang\*, "SVFNeXt: Sparse Voxel Fusion for LiDAR-Based 3D Object Detection", Pacific Rim International Conference on Artificial Intelligence (PRCAI 2023), 2023. (CCF-C) [(paper)](https://link.springer.com/chapter/10.1007/978-981-99-7025-4_17)
 
 - Chi Xie, Zhao Zhang, Yixuan Wu, Feng Zhu, Rui Zhao, Shuang Liang*, "Described Object Detection: Liberating Object Detection with Flexible Expressions", Advances in Neural Information Processing Systems (NeurIPS 2023), 2023. (CCF-A) [(paper)](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f9fd24fd32eccc14cd3ecd3716a1cbf8-Abstract-Conference.html) [(code)](https://github.com/shikras/d-cube)
 
